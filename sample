@@ -1,10 +1,10 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # sample: Output lines from stdin to stdout with a given probability,
 # for a given duration, and with a given delay between lines.
 # 
 # Example usage: seq 100 | sample -r 20% -d 1000
 #
-# Dependency: Python 2.5
+# Dependency: Python 3
 # 
 # Author: http://jeroenjanssens.com
 
