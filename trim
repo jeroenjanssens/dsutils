@@ -20,6 +20,6 @@ END {
     if (NR == height + 1) {
         print
     } else if (NR > height + 1) {
-        print "… with " (NR - height) " more lines" > "/dev/stderr"
+        print "… with " (NR - height) " more lines"
     }
 }
