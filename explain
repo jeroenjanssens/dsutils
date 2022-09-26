@@ -3,7 +3,7 @@
 # 
 # Example usage: explain tar xzvf 
 #
-# Dependency: scrape (from: https://github.com/jeroenjanssens/data-science-toolbox)
+# Dependency: scrape (from: https://github.com/jeroenjanssens/dsutils)
 #
 # Author: http://jeroenjanssens.com
 
